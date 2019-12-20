@@ -10,3 +10,5 @@ Natural Language Processing is used to build a spam message filter
   7. numpy
   8. seaborn
   9. matplotlib
+### Accuracy:
+We achieve accuracy of 0.9757630161579892.
