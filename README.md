@@ -10,6 +10,6 @@ Natural Language Processing is used to build a spam message filter
   7. [seaborn](https://seaborn.pydata.org/)
   8. [matplotlib](https://matplotlib.org/)
 ### Accuracy:
-We achieve accuracy of 0.9757630161579892.
+I achieve accuracy of 0.9757630161579892.
 ### In order to understand process flow you can read it from:
 https://github.com/ashu12chi/SpamMessageFilter-using-NLP/blob/master/NLP.pdf
